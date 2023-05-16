@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.header{
+    background-image:url(../ressources/images/header.jpg);
+    width:100vw;
+    height:auto;
+}
+
+.option{
+    display:flex;
+    justify-content:space-evenly;
+}
+
+
+
+.width{
+    width:80%;
+    margin:0 auto;
+}
